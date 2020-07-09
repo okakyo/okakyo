@@ -4,4 +4,24 @@
 <img src="https://img.shields.io/badge/Platform-Windows%2010-green"/>
 </p>
 
+## About 
+  - Frontend Framework
+    - Vue.js
+    - React.js 
+  - Backend Framework
+    - ExpressJS, NestJS
+    - Echo
+    - Flask
+    - Spring Boot 
+    - Django 
+## Features
 
+## Career
+- ### Jobs 
+  - dotstar
+  - Lead Effort 
+- ### Internship
+  - Logly  
+  - Yahoo Japan 
+  - Team Labs 
+  
