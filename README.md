@@ -1,6 +1,6 @@
-# okakyo
+# OkaKyo
 
-## Useage 
+
 ### Frontend
 - Nuxt.js/ Vue.js 
 - React.js
