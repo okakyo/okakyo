@@ -13,3 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okakyo&hide=javascript,html,css,jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## OSS 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=okakyo&repo=github-readme-stats)](https://github.com/okakyo/Nextjs-ja-translation-docs)
