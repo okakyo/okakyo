@@ -1,2 +1,2 @@
 # okakyo
-![Anurag's github stats](https://github.com/okakyo/okakyo/blob/master/README.md)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okakyo)](https://github.com/anuraghazra/github-readme-stats)
